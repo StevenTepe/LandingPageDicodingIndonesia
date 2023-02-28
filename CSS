@@ -31,3 +31,7 @@ header.navbar-container .nav-list ul {
   justify-content: center;
   gap: 2rem 1rem;
 }
+
+header.navbar-container .nav-list li {
+  list-style-type: none;
+}
