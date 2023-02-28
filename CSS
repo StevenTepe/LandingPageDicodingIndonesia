@@ -97,3 +97,9 @@ main .content .content-description button {
    cursor: pointer;
    transition: all .15s ease-in;
 }
+
+main .content .content-description button:hover {
+  border: 3px solid #2D3E50;
+  color: #2D3E50;
+  background-color: transparent;
+}
