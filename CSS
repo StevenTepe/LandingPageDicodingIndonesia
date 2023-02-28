@@ -24,3 +24,10 @@ header.navbar-container {
     padding-block: 1rem;
     z-index: 999;
    }
+
+header.navbar-container .nav-list ul {
+  padding-left: 0;
+  display: flex;
+  justify-content: center;
+  gap: 2rem 1rem;
+}
