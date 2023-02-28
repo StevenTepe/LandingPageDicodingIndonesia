@@ -81,3 +81,12 @@ main .content .content-description p {
   line-height: 1.7rem;
   font-size: 1.2rem;
 }
+
+main .content .content-description button {
+  padding: .8rem 2.5rem;
+  margin-block-start: 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1rem;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
